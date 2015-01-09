@@ -9,6 +9,7 @@ public class Hello {
 		
 		System.out.print("°®ÎÒ²»~~");
 		System.out.print("love");
+		System.out.print("aas");
 
 	}
 
