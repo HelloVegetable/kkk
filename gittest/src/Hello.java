@@ -10,6 +10,7 @@ public class Hello {
 		System.out.print("爱我么~~");
 		System.out.print("love");
 		System.out.print("aas");
+		System.out.print("fdfd");
 
 	}
 
