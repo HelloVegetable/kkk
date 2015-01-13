@@ -12,6 +12,7 @@ public class Hello {
 		System.out.print("aas");
 		System.out.print("miaomiao");
 		System.out.print("爱我么~~");
+        System.out.print("真的爱你！！！！");
 
 	}
 
